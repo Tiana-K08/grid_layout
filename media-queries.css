@@ -1,4 +1,4 @@
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .style-details, .rules-wrapper {
         grid-template-columns: 1fr;
         gap: 50px;
