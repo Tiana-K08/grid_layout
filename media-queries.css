@@ -1,0 +1,10 @@
+@media (max-width: 425px) {
+    .style-details, .rules-wrapper {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .details-text {
+        text-align: center;
+    }
+}
